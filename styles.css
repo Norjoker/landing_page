@@ -1,0 +1,53 @@
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    object-fit: contain;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.top {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.information {
+    display: flex;
+    background-color: #3882F6;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+}
+
+.quote {
+    display: flex;
+    background-color: #E5E7EB;
+}
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+}
