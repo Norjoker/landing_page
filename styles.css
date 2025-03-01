@@ -152,7 +152,6 @@ img {
 .quote {
     display: flex;
     background-color: #E5E7EB;
-    display: flex;
     flex-direction: column;
     justify-content: center;
 }
